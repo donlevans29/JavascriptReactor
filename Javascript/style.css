@@ -1,0 +1,42 @@
+
+.header {
+	background-color: #E7F2F4;
+	margin:auto;
+	width:98%;
+	text-align: center;
+	padding: 20px;
+	
+	
+}
+
+.header p {
+	font-weight:36px;
+	color:white;
+}
+
+.header h1 {
+	font-weight:46px;
+	color: #0099CC;
+	
+}
+
+#myButton {
+	background-color: #0099CC;
+	color:white;
+}
+
+body {
+	background-color: white;
+}
+
+#redCircle {
+	background-color: red;
+	width:250px;
+	height:250px;
+	border-radius:150px;
+	-moz-border-radius: 150px;
+	-webkit-border-radius: 150px;
+	margin-left:510px;
+	margin-top: 50px;
+
+}
